@@ -1,0 +1,15 @@
+{
+  "name": "jestchainlibrary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Samuel Njenga",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.1.0",
+    "jest-chain": "^1.1.5"
+  }
+}
